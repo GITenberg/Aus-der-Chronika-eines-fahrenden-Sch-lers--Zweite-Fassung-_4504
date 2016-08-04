@@ -1,0 +1,36 @@
+_repo: Aus-der-Chronika-eines-fahrenden-Sch-lers--Zweite-Fassung-_4504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brentano, Clemens
+    aliases:
+    - Brentano, Clemens Maria
+    - Brentano, Clemens von
+    - Von Brentano, Clemens
+    - Brentano, Clement
+    birthdate: 1778
+    deathdate: 1842
+    gutenberg_agent_id: '882'
+    url: http://www.gutenberg.org/2009/agents/882
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Clemens_Brentano
+    - http://en.wikipedia.org/wiki/Clemens_Brentano
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4504'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hessen (Hesse, Germany : Province) -- Fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Germany -- Social life and customs -- Middle Ages, 500-1500 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Autobiographical fiction'
+- GITenberg
+title: Aus der Chronika eines fahrenden Schülers (Zweite Fassung)
+url: http://www.gutenberg.org/ebooks/4504
